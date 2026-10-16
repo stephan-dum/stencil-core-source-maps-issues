@@ -1,0 +1,12 @@
+{
+  "name": "stenci-core-source-maps-issues",
+  "private": true,
+  "main": "dist/index.cjs.js",
+  "collection": "dist/collection/collection-manifest.json",
+  "dependencies": {
+    "@stencil/core": "4.45.2"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3"
+  }
+}
